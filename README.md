@@ -1,6 +1,6 @@
-# Allison
+# Allison Law
 
-Computer Science at NUS. 
+Computer Science at NUS. Building random projects at the side. Exploring AI and other cool things like blockchain and robotics.
 
 ## Stack
 
@@ -34,13 +34,17 @@ Computer Science at NUS.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" height="40" alt="pytorch logo" />
 </div>
 
+<!--
+[![My Development Time](https://github-stats-extended.vercel.app/api/wakatime/?username=allisonllx)](https://github.com/stats-organization/github-stats-extended)
+-->
+
 ## Selected Projects
 
 - **TheFirst Spark Build Challenge 2026** (by January Capital x Wavesparks, Finalist) — [The Sandbox](https://github.com/allisonllx/the-sandbox), Leetcode but on real startup challenges
-- **TinyFish Hackathon 2026** - [Frontier](https://github.com/OccupiedPorcupine/tinyfish-hacakathon/tree/main/Frontier), an agentic AI platform for founders and investors that turns messy, fragmented, cross-border web signals into structured opportunity intelligence
-- **NTU Beyond Binary Hackathon 2026** - [AccessAdmin AI](https://github.com/p12010304/Beyond-Binary), an adaptive AI companion for people with disabilities in administrative and office roles
-- **NUS Orbital Apollo Project 2025** - [NUSeek](https://github.com/allisonllx/orbital-25), a NUS-centric community platform to facilitate support amongst peers
-- **Uber Global Hackathon 2022** (Regional Winner and Global Finalist) - [Recyclens](https://github.com/allisonllx/garbage-classification), a garbage classification pipeline
+- **TinyFish Hackathon 2026** — [Frontier](https://github.com/OccupiedPorcupine/tinyfish-hacakathon/tree/main/Frontier), an agentic AI platform for founders and investors that turns messy, fragmented, cross-border web signals into structured opportunity intelligence
+- **NTU Beyond Binary Hackathon 2026** — [AccessAdmin AI](https://github.com/p12010304/Beyond-Binary), an adaptive AI companion for people with disabilities in administrative and office roles
+- **NUS Orbital Apollo Project 2025** — [NUSeek](https://github.com/allisonllx/orbital-25), a NUS-centric community platform to facilitate support amongst peers
+- **Uber Global Hackathon 2022** (Regional Winner and Global Finalist) — [Recyclens](https://github.com/allisonllx/garbage-classification), a garbage classification training and inference pipeline
 
 <!--
 **allisonllx/allisonllx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
