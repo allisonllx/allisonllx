@@ -34,7 +34,7 @@ Computer Science at NUS.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" height="40" alt="pytorch logo" />
 </div>
 
-## Projects
+## Selected Projects
 
 - **TheFirst Spark Build Challenge 2026** (by January Capital x Wavesparks, Finalist) — [The Sandbox](https://github.com/allisonllx/the-sandbox), Leetcode but on real startup challenges
 - **NUS Orbital Apollo Project 2025** - [NUSeek](https://github.com/allisonllx/orbital-25), a NUS-centric community platform to facilitate support amongst peers
