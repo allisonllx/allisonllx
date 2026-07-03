@@ -39,7 +39,7 @@ Computer Science at NUS.
 - **TheFirst Spark Build Challenge 2026** (by January Capital x Wavesparks, Finalist) — [The Sandbox](https://github.com/allisonllx/the-sandbox), Leetcode but on real startup challenges
 - **NUS Orbital Apollo Project 2025** - [NUSeek](https://github.com/allisonllx/orbital-25), a NUS-centric community platform to facilitate support amongst peers
 - **NTU Beyond Binary Hackathon 2026** - [AccessAdmin AI](https://github.com/p12010304/Beyond-Binary), an adaptive AI companion for people with disabilities in administrative and office roles
-- **Uber Global Hackathon 2022** - [Recyclens](https://github.com/allisonllx/garbage-classification), a garbage classification pipeline
+- **Uber Global Hackathon 2022** (Regional Winner and Global Finalist) - [Recyclens](https://github.com/allisonllx/garbage-classification), a garbage classification pipeline
 
 <!--
 **allisonllx/allisonllx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
