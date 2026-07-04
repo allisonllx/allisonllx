@@ -46,6 +46,11 @@ Computer Science at NUS. Building random projects at the side. Exploring AI and 
 - **NUS Orbital Apollo Project 2025** — [NUSeek](https://github.com/allisonllx/orbital-25), a NUS-centric community platform to facilitate support amongst peers
 - **Uber Global Hackathon 2022** (Regional Winner and Global Finalist) — [Recyclens](https://github.com/allisonllx/garbage-classification), a garbage classification training and inference pipeline
 
+## Research
+
+- **NUS Odyssey 2026** — [Contact-Aware Robot Teleoperation](https://github.com/allisonllx/Contact-Aware-Robot-Teleoperation)
+- **Research@YDSP 2022** (Best Paper Award at IRC-SET 2023 Conference) — [Cryptanalysis of SQL JOIN in Encrypted Databases Under Varying Leakage Profiles](https://github.com/allisonllx/Leakage-Abuse-Attack/tree/main)
+
 <!--
 **allisonllx/allisonllx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
