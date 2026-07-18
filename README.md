@@ -40,7 +40,8 @@ Computer Science at NUS. Building random projects at the side. Exploring AI and 
 
 ## Selected Projects
 
-- **TheFirst Spark Build Challenge 2026** (by January Capital x Wavesparks, Finalist) — [The Sandbox](https://github.com/allisonllx/the-sandbox), Leetcode but on real startup challenges
+- **Daytona HackSprint 2026** (also supported by AI&, Oxylabs, Nosana, Doubleword | Finalist) — [SignalRoom](https://github.com/allisonllx/daytona-hackathon/tree/integrate), a platform that allows you to simulate disaster futures and pick the strategy that survives
+- **TheFirst Spark Build Challenge 2026** (by January Capital x Wavesparks | Finalist) — [The Sandbox](https://github.com/allisonllx/the-sandbox), Leetcode but on real startup challenges
 - **TinyFish Hackathon 2026** — [Frontier](https://github.com/OccupiedPorcupine/tinyfish-hacakathon/tree/main/Frontier), an agentic AI platform for founders and investors that turns messy, fragmented, cross-border web signals into structured opportunity intelligence
 - **NTU Beyond Binary Hackathon 2026** — [AccessAdmin AI](https://github.com/p12010304/Beyond-Binary), an adaptive AI companion for people with disabilities in administrative and office roles
 - **NUS CS2103T Software Engineering Project 2026** — [B2B4U](https://github.com/AY2526S2-CS2103T-T08-1/tp), a command-based address book desktop application designed specifically for B2B professionals like consultants and sales reps
