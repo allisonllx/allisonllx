@@ -56,7 +56,9 @@ Computer Science at NUS. Building random projects at the side. Interested in AI 
 
 *Finalist — TheFirst Spark Build Challenge 2026*
 
-<img width="806" height="453" alt="image" src="https://github.com/user-attachments/assets/6cb7acd3-770a-496b-bc68-e70792b0abf3" />
+<img width="1470" height="826" alt="the-sandbox-asset" src="https://github.com/user-attachments/assets/ac7385df-136e-493d-8a66-a6be6e375d5e" />
+
+
 
 ### [PassionHub](https://github.com/MuskanDhamuria/CodetoGiveAsia26/tree/backend)
 
@@ -65,7 +67,7 @@ Computer Science at NUS. Building random projects at the side. Interested in AI 
 
 *1 out of 60 selected — Morgan Stanley Code to Give Asia 2026*
 
-<img width="795" height="400" alt="image" src="https://github.com/user-attachments/assets/8e4f3a86-03c4-4427-ac51-6363e3b9ff87" />
+<img width="1470" height="833" alt="Screenshot 2026-08-06 at 12 13 02 AM" src="https://github.com/user-attachments/assets/77216e64-4725-4b59-bbb2-8848cf756c43" />
 
 ### [NUSeek](https://github.com/allisonllx/orbital-25)
 
